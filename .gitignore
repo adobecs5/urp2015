@@ -1,2 +1,8 @@
+# compiled python files
 *.pyc
-__pycache__
+__pycache_
+
+# data files
+data/accessories.json
+data/clothes.json
+
